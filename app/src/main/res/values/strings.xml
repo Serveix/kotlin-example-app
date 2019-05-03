@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trippify</string>
+    <string name="title_activity_tripiffy">Tripiffy</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
